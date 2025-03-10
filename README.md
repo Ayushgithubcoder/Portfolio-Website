@@ -14,4 +14,4 @@ Technologies Used
 - JavaScript
 
 Contact
-- Email: ayushsharma1a2b@gmzil.com
+- Email: ayushsharma1a2b@gmail.com
